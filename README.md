@@ -2,3 +2,4 @@
 My GitHub pages.
 
 And stuff.
+Direct push.
